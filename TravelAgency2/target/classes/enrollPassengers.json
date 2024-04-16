@@ -1,0 +1,111 @@
+[
+    {
+    "passengerId" : "P001",
+    "packageName" : "RT-001",
+    "itineraryMap" : {
+      "London" : ["The Royal Mews" ],
+      "Area83" : ["Rocket Man", "Archery"],
+      "Mauritius" : ["Dolphin sightings","Sea kayaking"]
+    }
+  },
+  {
+    "passengerId" : "P002",
+    "packageName" : "RT-001",
+    "itineraryMap" : {
+      "London": [
+        "Buckingham Palace",
+        "The Royal Mews"
+      ],
+      "Area83": [
+        "Rocket Man",
+        "Archery"
+      ],
+      "Mauritius": [
+        "Deep-sea fishing",
+        "Dolphin sightings",
+        "Sea kayaking"
+      ]
+    }},
+  {
+    "passengerId" : "P003",
+    "packageName" : "RT-001",
+    "itineraryMap" : {
+      "London": [
+        "Buckingham Palace",
+        "The Royal Mews"
+      ],
+      "Area83": [
+        "Rocket Man",
+        "Archery"
+      ],
+      "Mauritius": [
+        "Deep-sea fishing",
+        "Dolphin sightings",
+        "Sea kayaking"
+      ]
+    }},
+  {
+    "passengerId" : "P004",
+    "packageName" : "RT-001",
+    "itineraryMap" : {
+      "London": [
+        "Buckingham Palace",
+        "The Royal Mews"
+      ],
+      "Area83": [
+        "Rocket Man",
+        "Archery"
+      ],
+      "Mauritius": [
+        "Deep-sea fishing",
+        "Dolphin sightings",
+        "Sea kayaking"
+      ]
+    }},
+  {
+    "passengerId" : "P005",
+    "packageName" : "RT-001",
+    "itineraryMap" : {
+      "London" : ["Buckingham Palace", "The Royal Mews" ],
+      "Area83" : ["Rocket Man", "Archery"],
+      "Mauritius" : ["Deep-sea fishing","Dolphin sightings","Sea kayaking"]
+    }},
+  {
+    "passengerId": "P006",
+    "packageName": "RT-001",
+    "itineraryMap": {
+      "London": [
+        "Buckingham Palace",
+        "The Royal Mews"
+      ],
+      "Area83": [
+        "Rocket Man",
+        "Archery"
+      ],
+      "Mauritius": [
+        "Deep-sea fishing",
+        "Dolphin sightings",
+        "Sea kayaking"
+      ]
+    }
+  },
+  {
+    "passengerId": "P007",
+    "packageName": "RT-001",
+    "itineraryMap": {
+      "London": [
+        "Buckingham Palace",
+        "The Royal Mews"
+      ],
+      "Area83": [
+        "Rocket Man",
+        "Archery"
+      ],
+      "Mauritius": [
+        "Deep-sea fishing",
+        "Dolphin sightings",
+        "Sea kayaking"
+      ]
+    }
+  }
+]

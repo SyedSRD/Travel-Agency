@@ -1,0 +1,181 @@
+[
+  {
+    "passengerName": "Syed Sultan",
+    "balance": 115000,
+    "passengerNumber": "P001",
+    "passengerCategory": "STANDARD"
+  },
+  {
+    "passengerName": "Chinamy",
+    "balance": 115000,
+    "passengerNumber": "P002",
+    "passengerCategory": "STANDARD"
+  },
+  {
+    "passengerName": "Sid",
+    "balance": 115000,
+    "passengerNumber": "P003",
+    "passengerCategory": "STANDARD"
+  },
+  {
+    "passengerName": "Bharat",
+    "balance": 115000,
+    "passengerNumber" : "P004",
+    "passengerCategory": "STANDARD"
+  },
+  {
+    "passengerName": "Rafi",
+    "balance": 115000,
+    "passengerNumber" : "P005",
+    "passengerCategory": "STANDARD"
+  },
+  {
+    "passengerName": "Niranjan",
+    "balance": 115000,
+    "passengerNumber" : "P006",
+    "passengerCategory": "STANDARD"
+  },
+  {
+    "passengerName": "Ravi",
+    "balance": 115000,
+    "passengerNumber" : "P007",
+    "passengerCategory": "STANDARD"
+  },
+  {
+    "passengerName": "Siddu",
+    "balance": 115000,
+    "passengerNumber" : "P008",
+    "passengerCategory": "STANDARD"
+  },
+  {
+    "passengerName": "Zameer",
+    "balance": 115000,
+    "passengerNumber" : "P009",
+    "passengerCategory": "STANDARD"
+  },
+  {
+    "passengerName": "Pavan",
+    "balance": 115000,
+    "passengerNumber" : "P010",
+    "passengerCategory": "STANDARD"
+  },
+  {
+    "passengerName": "Rakesh",
+    "balance": 115000,
+    "passengerNumber" : "P011",
+    "passengerCategory": "STANDARD"
+  },
+  {
+    "passengerName": "Karan",
+    "balance": 115000,
+    "passengerNumber" : "P012",
+    "passengerCategory": "STANDARD"
+  }
+  {
+    "passengerName": "Lingraj",
+    "balance": 115000,
+    "passengerNumber" : "P013",
+    "passengerCategory": "STANDARD"
+  },
+  {
+    "passengerName": "Suraj",
+    "balance": 115000,
+    "passengerNumber" : "P014",
+    "passengerCategory": "STANDARD"
+  },
+  {
+    "passengerName": "Sagar",
+    "balance": 115000,
+    "passengerNumber" : "P015",
+    "passengerCategory": "STANDARD"
+  },
+  {
+    "passengerName": "Srinivas",
+    "balance": 75000,
+    "passengerNumber" : "P016",
+    "passengerCategory": "GOLD"
+  },
+  {
+    "passengerName": "Shreedhar",
+    "balance": 75000,
+    "passengerNumber" : "P017",
+    "passengerCategory": "GOLD"
+  },
+  {
+    "passengerName": "Veerappa",
+    "balance": 75000,
+    "passengerNumber" : "P018",
+    "passengerCategory": "GOLD"
+  },
+  {
+    "passengerName": "Rafiq",
+    "balance": 75000,
+    "passengerNumber" : "P019",
+    "passengerCategory": "GOLD"
+  },
+  {
+    "passengerName": "Anita",
+    "balance": 100000,
+    "passengerNumber" : "P020",
+    "passengerCategory": "GOLD"
+  },
+  {
+    "passengerName": "Kavita",
+    "balance": 100000,
+    "passengerNumber" : "P021",
+    "passengerCategory": "GOLD"
+  },
+  {
+    "passengerName": "Pooja",
+    "balance": 100000,
+    "passengerNumber" : "P022",
+    "passengerCategory": "GOLD"
+  },
+  {
+    "passengerName": "Naveen",
+    "balance": 100000,
+    "passengerNumber" : "P023",
+    "passengerCategory": "GOLD"
+  },
+  {
+    "passengerName": "Geeta",
+    "balance": 50000,
+    "passengerNumber" : "P024",
+    "passengerCategory": "GOLD"
+  },
+  {
+    "passengerName": "Akshay",
+    "balance": 50000,
+    "passengerNumber" : "P025",
+    "passengerCategory": "PREMIUM"
+  },
+  {
+    "passengerName": "Isaaq",
+    "balance": 50000,
+    "passengerNumber" : "P026",
+    "passengerCategory": "PREMIUM"
+  },
+  {
+    "passengerName": "Abhishek",
+    "balance": 50000,
+    "passengerNumber" : "P027",
+    "passengerCategory": "PREMIUM"
+  },
+  {
+    "passengerName": "Ritika Ratnu",
+    "balance": 50000,
+    "passengerNumber" : "P028",
+    "passengerCategory": "PREMIUM"
+  },
+  {
+    "passengerName": "Auliya",
+    "balance": 50000,
+    "passengerNumber" : "P029",
+    "passengerCategory": "PREMIUM"
+  },
+  {
+    "passengerName": "Venkatesh",
+    "balance": 150000,
+    "passengerNumber" : "P030",
+    "passengerCategory": "PREMIUM"
+  }]

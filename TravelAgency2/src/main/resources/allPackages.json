@@ -1,0 +1,461 @@
+[
+  {
+    "packageName" : "RT-001",
+    "passengerCapacity" : 10,
+    "itinerary" : [
+      {
+        "destinationName": "Area83",
+        "activityList": [
+          {
+            "activityName": "Rocket Man",
+            "cost": 5000,
+            "capacity": 7,
+            "activityDescription": " a person will be tied to a rope and thrown upwards"
+          },
+          {
+            "activityName": "Death Swing",
+            "cost": 10000,
+            "capacity": 6,
+            "activityDescription": " 2 person activity, swung 200m above ground"
+          },
+          {
+            "activityName": "Roller Coaster",
+            "cost": 20000,
+            "capacity": 10,
+            "activityDescription": " Roller coaster"
+          },
+          {
+            "activityName": "Archery",
+            "cost": 15000,
+            "capacity": 6,
+            "activityDescription": " Archery  "
+          }
+        ]
+      },
+      {
+        "destinationName": "London",
+        "activityList": [
+          {
+            "activityName": "Buckingham Palace",
+            "cost": 30000,
+            "capacity": 10,
+            "activityDescription": " The King's official London residence and a working royal palace."
+          },
+          {
+            "activityName": "Royal Family Garden",
+            "cost": 10000,
+            "capacity": 8,
+            "activityDescription": " Queens personal garden "
+          },
+          {
+            "activityName": "The Royal Mews",
+            "cost": 5000,
+            "capacity": 10,
+            "activityDescription": "Home to historic royal carriages and one of the finest working stables in existence."
+          },
+          {
+            "activityName": "Windsor Castle",
+            "cost": 15000,
+            "capacity": 5,
+            "activityDescription": "Home to royalty and 1,000 years of royal history."
+          },
+          {
+            "activityName": "PALACE OF HOLYROODHOUSE",
+            "cost": 25000,
+            "capacity": 10,
+            "activityDescription": "The King's official residence in Edinburgh and the home of Scottish royal history."
+          }
+        ]
+    },
+      {
+        "destinationName" : "Mauritius",
+        "activityList" : [
+          {
+            "activityName" : "Scuba Diving",
+            "cost" : 20000,
+            "capacity" : 8,
+            "activityDescription" : "Scuba Diving"
+          },
+          {
+            "activityName" : "Deep-sea fishing",
+            "cost" : 25000,
+            "capacity" : 6,
+            "activityDescription" : "Deep-sea fishing"
+          },
+          {
+            "activityName" : "Sea kayaking",
+            "cost" : 10000,
+            "capacity" : 10,
+            "activityDescription" : "Sea kayaking"
+          },
+          {
+            "activityName" : "Cruise",
+            "cost" : 25000,
+            "capacity" : 10,
+            "activityDescription" : "Cruise"
+          },
+          {
+            "activityName" : "Dolphin sightings",
+            "cost" : 5000,
+            "capacity" : 10,
+            "activityDescription" : "Dolphin sightings"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "packageName" : "RT-002",
+    "passengerCapacity" : 12,
+    "itinerary" : [
+      {
+        "destinationName" : "Caribbean Islands",
+        "activityList" : [
+          {
+            "activityName" : "surfing",
+            "cost" : 20000,
+            "capacity" : 8,
+            "activityDescription" : "Scuba Diving"
+          },
+          {
+            "activityName" : "catamaran rides",
+            "cost" : 25000,
+            "capacity" : 6,
+            "activityDescription" : "Scuba Diving"
+          },
+          {
+            "activityName" : "snorkeling",
+            "cost" : 10000,
+            "capacity" : 10,
+            "activityDescription" : "Scuba Diving"
+          },
+          {
+            "activityName" : "Yacht rides",
+            "cost" : 25000,
+            "capacity" : 10,
+            "activityDescription" : "Scuba Diving"
+          },
+          {
+            "activityName" : "Paddle boarding",
+            "cost" : 5000,
+            "capacity" : 10,
+            "activityDescription" : "Scuba Diving"
+          }
+        ]
+      },
+      {
+        "destinationName" : "Egypt",
+        "activityList" : [
+          {
+            "activityName" : "Sky diving",
+            "cost" : 25000,
+            "capacity" : 5,
+            "activityDescription" : "Sky diving"
+          },
+          {
+            "activityName" : "Giza Pyramid",
+            "cost" : 20000,
+            "capacity" : 10,
+            "activityDescription" : "Giza Pyramid"
+          },
+          {
+            "activityName" : "Sphinx",
+            "cost" : 10000,
+            "capacity" : 10,
+            "activityDescription" : "Sphinx"
+          },
+          {
+            "activityName" : "Egypt Museum",
+            "cost" : 25000,
+            "capacity" : 10,
+            "activityDescription" : "Scuba Diving"
+          }
+        ]
+      },
+      {
+        "destinationName" : "Dubai",
+        "activityList" : [
+          {
+            "activityName" : "Sand Surfing",
+            "cost" : 10000,
+            "capacity" : 10,
+            "activityDescription" : "Sky diving"
+          },
+          {
+            "activityName" : "Desert Safari",
+            "cost" : 20000,
+            "capacity" : 5,
+            "activityDescription" : "Giza Pyramid"
+          },
+          {
+            "activityName" : "Burj Khalifa",
+            "cost" : 10000,
+            "capacity" : 10,
+            "activityDescription" : "Sphinx"
+          },
+          {
+            "activityName" : "Aura Skypool",
+            "cost" : 20000,
+            "capacity" : 10,
+            "activityDescription" : "Scuba Diving"
+          },
+          {
+            "activityName" : "Dubai Aquarium ",
+            "cost" : 30000,
+            "capacity" : 10,
+            "activityDescription" : "Scuba Diving"
+          },{
+            "activityName" : "Golbal Village ",
+            "cost" : 5000,
+            "capacity" : 10,
+            "activityDescription" : "Scuba Diving"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "packageName" : "RT-003",
+    "passengerCapacity" : 13,
+    "itinerary" : [
+      {
+        "destinationName" : "Dubai",
+        "activityList" : [
+          {
+            "activityName" : "Sand Surfing",
+            "cost" : 10000,
+            "capacity" : 10,
+            "activityDescription" : "Sky diving"
+          },
+          {
+            "activityName" : "Desert Safari",
+            "cost" : 20000,
+            "capacity" : 5,
+            "activityDescription" : "Giza Pyramid"
+          },
+          {
+            "activityName" : "Burj Khalifa",
+            "cost" : 10000,
+            "capacity" : 10,
+            "activityDescription" : "Sphinx"
+          },
+          {
+            "activityName" : "Aura Skypool",
+            "cost" : 20000,
+            "capacity" : 10,
+            "activityDescription" : "Scuba Diving"
+          },
+          {
+            "activityName" : "Dubai Aquarium ",
+            "cost" : 30000,
+            "capacity" : 10,
+            "activityDescription" : "Scuba Diving"
+          },{
+            "activityName" : "Golbal Village ",
+            "cost" : 5000,
+            "capacity" : 10,
+            "activityDescription" : "Scuba Diving"
+          }
+        ]
+      },
+      {
+        "destinationName" : "Water paradise",
+        "activityList" : [
+          {
+            "activityName" : "Kayaking",
+            "cost" : 15000,
+            "capacity" : 8,
+            "activityDescription" : " Kayaking and canoeing."
+          },
+          {
+            "activityName" : "jet-skiing",
+            "cost" : 15000,
+            "capacity" : 8,
+            "activityDescription" : " sailing on the ocean using jet-skis "
+          },
+          {
+            "activityName" : "parasailing",
+            "cost" : 25000,
+            "capacity" : 5,
+            "activityDescription" : "parasailing over the beach"
+          },
+          {
+            "activityName" : "Jacuzzi",
+            "cost" : 5000,
+            "capacity" : 10,
+            "activityDescription" : " relax in the jacuzzi "
+          },
+          {
+            "activityName" : "Onsen Sauna",
+            "cost" : 10000,
+            "capacity" : 10,
+            "activityDescription" : " relax in the Onsen "
+          },
+          {
+            "activityName" : "Rafting",
+            "cost" : 20000,
+            "capacity" : 4,
+            "activityDescription" : " rafting "
+          }
+        ]
+      },
+      {
+        "destinationName" : "Central Park",
+        "activityList" : [
+          {
+            "activityName" : "Flower Garden",
+            "cost" : 15000,
+            "capacity" : 6,
+            "activityDescription" : " Walk around in Flower Garden"
+          },
+          {
+            "activityName" : "Fossils Museum",
+            "cost" : 25000,
+            "capacity" : 10,
+            "activityDescription" : " a walk in Dino park"
+          },
+          {
+            "activityName" : "Bubble Soccer",
+            "cost" : 10000,
+            "capacity" : 8,
+            "activityDescription" : " Bubble Soccer "
+          },
+          {
+            "activityName" : "Human Foosball",
+            "cost" : 10000,
+            "capacity" : 8,
+            "activityDescription" : " Human Foosball"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "packageName" : "RT-004",
+    "passengerCapacity" : 13,
+    "itinerary" : [
+      {
+        "destinationName" : "Area83",
+        "activityList" : [
+          {
+            "activityName" : "Rocket Man",
+            "cost" : 5000,
+            "capacity" : 7,
+            "activityDescription" : " a person will be tied to a rope and thrown upwards"
+          },
+          {
+            "activityName" : "Death Swing",
+            "cost" : 10000,
+            "capacity" : 6,
+            "activityDescription" : " 2 person activity, swung 200m above ground"
+          },
+          {
+            "activityName" : "Roller Coaster",
+            "cost" : 20000,
+            "capacity" : 10,
+            "activityDescription" : " Roller coaster"
+          },
+          {
+            "activityName" : "Archery",
+            "cost" : 15000,
+            "capacity" : 6,
+            "activityDescription" : " Archery  "
+          }
+        ]
+      },
+      {
+        "destinationName" : "Central Park",
+        "activityList" : [
+          {
+            "activityName" : "Flower Garden",
+            "cost" : 15000,
+            "capacity" : 6,
+            "activityDescription" : " Walk around in Flower Garden"
+          },
+          {
+            "activityName" : "Fossils Museum",
+            "cost" : 25000,
+            "capacity" : 10,
+            "activityDescription" : " a walk in Dino park"
+          },
+          {
+            "activityName" : "Bubble Soccer",
+            "cost" : 10000,
+            "capacity" : 8,
+            "activityDescription" : " Bubble Soccer "
+          },
+          {
+            "activityName" : "Human Foosball",
+            "cost" : 10000,
+            "capacity" : 8,
+            "activityDescription" : " Human Foosball"
+          }
+        ]
+      },
+      {
+        "destinationName" : "Mauritius",
+        "activityList" : [
+          {
+            "activityName" : "Scuba Diving",
+            "cost" : 20000,
+            "capacity" : 8,
+            "activityDescription" : "Scuba Diving"
+          },
+          {
+            "activityName" : "Deep-sea fishing",
+            "cost" : 25000,
+            "capacity" : 6,
+            "activityDescription" : "Scuba Diving"
+          },
+          {
+            "activityName" : "Sea kayaking",
+            "cost" : 10000,
+            "capacity" : 10,
+            "activityDescription" : "Scuba Diving"
+          },
+          {
+            "activityName" : "Cruise",
+            "cost" : 25000,
+            "capacity" : 10,
+            "activityDescription" : "Scuba Diving"
+          },
+          {
+            "activityName" : "Dolphin sightings",
+            "cost" : 5000,
+            "capacity" : 10,
+            "activityDescription" : "Scuba Diving"
+          }
+        ]
+      },
+      {
+        "destinationName" : "Egypt",
+        "activityList" : [
+          {
+            "activityName" : "Sky diving",
+            "cost" : 25000,
+            "capacity" : 5,
+            "activityDescription" : "Sky diving"
+          },
+          {
+            "activityName" : "Giza Pyramid",
+            "cost" : 20000,
+            "capacity" : 10,
+            "activityDescription" : "Giza Pyramid"
+          },
+          {
+            "activityName" : "Sphinx",
+            "cost" : 10000,
+            "capacity" : 10,
+            "activityDescription" : "Sphinx"
+          },
+          {
+            "activityName" : "Egypt Museum",
+            "cost" : 25000,
+            "capacity" : 10,
+            "activityDescription" : "Scuba Diving"
+          }
+        ]
+      }
+    ]
+  }
+]
